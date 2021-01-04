@@ -7,6 +7,7 @@ header{
     width: 60vw;
     margin:auto;
     background-color: aqua;
+    margin-bottom: 20px;
 }
 footer{
     border: 1px solid red;
