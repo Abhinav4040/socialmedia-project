@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+header{
+    border: 1px solid red;
+    width: 60vw;
+    margin:auto;
+    background-color: aqua;
+}
+footer{
+    border: 1px solid red;
+    width: 60vw;
+    margin:auto;
+    background-color: rgba(0, 0, 255, 0.555)
+}
